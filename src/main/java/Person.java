@@ -9,4 +9,10 @@ public class Person {
 	public void print(){
 		System.out.println("用户1");
 	}
+	
+	
+	
+	
+	private BigDecimal money;
+	
 }
