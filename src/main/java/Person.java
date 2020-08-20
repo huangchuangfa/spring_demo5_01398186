@@ -20,6 +20,11 @@ public class Person {
 
 	}
 
+	//******************
+	/***
+	 * 窗口2在23:09做了修改
+	 */
+	//*********************
 
 
 	private void setAge(Integer age) {
