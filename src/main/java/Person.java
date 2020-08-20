@@ -1,21 +1,24 @@
 import java.math.BigDecimal;
 
 public class Person {
-	
+
 	String personName;
-	
+
 	Integer age; //用户1写的
-	
+
 	String hobby; //用户1编写了hobby
 
 	String ok;
-
-
-
-
-
-
-
+	/**
+	 * Allocates a new {@code String} constructed from a subarray of an array
+	 * of 8-bit integer values.
+	 *
+	 * <p> The {@code offset} argument is the index of the first byte of the
+	 * subarray, and the {@code count} argument specifies the length of the
+	 * subarray.
+	 *
+	 * i love
+	 */
 
 	public void print(){
 		System.out.println("用户1");
