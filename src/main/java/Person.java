@@ -19,6 +19,7 @@ public class Person {
 		System.out.println("用户1");
 	}
 
+
 	private void add(){
 
 	}
