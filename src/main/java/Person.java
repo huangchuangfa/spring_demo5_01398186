@@ -8,25 +8,8 @@ public class Person {
 	
 	String hobby; //用户1编写了hobby
 
-
 	/**
-	 * Allocates a new {@code String} constructed from a subarray of an array
-	 * of 8-bit integer values.
-	 *
-	 * <p> The {@code offset} argument is the index of the first byte of the
-	 * subarray, and the {@code count} argument specifies the length of the
-	 * subarray.
-	 *
-	 * <p> Each {@code byte} in the subarray is converted to a {@code char} as
-	 * specified in the method above.
-	 *
-	 * @see  #String(byte[], int)
-	 * @see  #String(byte[], int, int, java.lang.String)
-	 * @see  #String(byte[], int, int, java.nio.charset.Charset)
-	 * @see  #String(byte[], int, int)
-	 * @see  #String(byte[], java.lang.String)
-	 * @see  #String(byte[], java.nio.charset.Charset)
-	 * @see  #String(byte[])
+	 * 1234232
 	 */
 
 
