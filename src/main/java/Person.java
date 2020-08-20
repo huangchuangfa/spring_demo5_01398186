@@ -11,7 +11,13 @@ public class Person {
 	}
 	
 	
-	
+	private void add(){
+
+	}
+
+	private void setAge(Integer age) {
+		this.age = age;
+	}
 	
 	private BigDecimal money;
 	
