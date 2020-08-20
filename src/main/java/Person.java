@@ -6,22 +6,20 @@ public class Person {
 	
 	String hobby; //用户1编写了hobby
 
-	/**
-	 * 窗口2在22:45做了修改
+	/***
+	 * 窗口1在22:39做了修改
 	 */
+
+
+
 	public void print(){
 		System.out.println("用户1");
 	}
-	
-	
+
 	private void add(){
 
 	}
 
-	/**
-	 * 窗口2在22:46做了修改
-	 * @param age
-	 */
 
 
 	private void setAge(Integer age) {
@@ -29,5 +27,14 @@ public class Person {
 	}
 	
 	private BigDecimal money;
-	
+
+	/***
+	 * 窗口1在22:40做了修改
+	 */
+
+
+	/**
+	 * 窗口1在22：41做了修改
+	 */
+
 }
