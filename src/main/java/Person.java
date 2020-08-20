@@ -7,19 +7,8 @@ public class Person {
 	Integer age; //用户1写的
 	
 	String hobby; //用户1编写了hobby
-	/**
-	 * 1234232
-	 */
 
-	/**
-	 * Allocates a new {@code String} constructed from a subarray of an array
-	 * of 8-bit integer values.
-	 *
-	 * <p> The {@code offset} argument is the index of the first byte of the
-	 * subarray, and the {@code count} argument specifies the length of the
-	 * subarray.
-	 *
-	 */
+	String ok;
 
 
 
